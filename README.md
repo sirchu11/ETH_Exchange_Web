@@ -11,13 +11,18 @@ npm i
 npm run dev
 ```
 
-## Tool & Library
+## Skill & Library
+
+- Solidity https://docs.soliditylang.org/en/v0.8.0/
+- ethers https://docs.ethers.io/v5/
+- react https://reactjs.org/
+- Tailwindcss https://tailwindcss.com/
+
+## Tool
 
 - Background color https://www.csshero.org/
-- Tailwindcss https://tailwindcss.com/
 - Icon https://react-icons.github.io/react-icons
 - Hardhat https://hardhat.org/
 - Ropsten testnet faucet https://faucet.egorfine.com/
 - Hardhat Ropsten https://dashboard.alchemyapi.io/
-- Solidity https://docs.soliditylang.org/en/v0.8.0/
 - Gif https://developers.giphy.com/
